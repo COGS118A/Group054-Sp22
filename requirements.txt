@@ -1,0 +1,12 @@
+numpy
+requests
+bs4
+tqdm
+black
+ipykernel
+pandas
+matplotlib
+isort
+pylint
+jinja2
+sklearn
